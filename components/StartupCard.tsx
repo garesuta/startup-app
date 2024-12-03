@@ -74,5 +74,6 @@ export const startupCardSkeleton = () => (
             </li>
         ))}
     </>
-)
+);
+
 export default StartupCard
